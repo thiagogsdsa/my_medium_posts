@@ -16,7 +16,7 @@ Welcome! Here I share my latest writings on Data Science, Machine Learning, and 
 
    Aqui eu falo sobre minha trajetória, meu momento de carreira e o que busco → [Read more](https://medium.com/@thiago.guimaraes.sto/quem-sou-eu-e838b2dd7a91)
    
-3. **Thinking About Data Science Structurally: The Quadruple (D, H, M, S)**
+3. **Data Science in Three Dimensions: Insight, Procedure, and Results (I, P, R)**
 
    A structured approach to solving data science problems by organizing data, hypotheses, methodology, and settings  → [Read more](https://medium.com/@thiago.guimaraes.sto/thinking-about-data-science-structurally-the-quadruple-d-h-m-s-781eee1af2ff)
    
